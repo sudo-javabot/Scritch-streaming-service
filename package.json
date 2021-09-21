@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "get-pixels": "^3.3.3",
+    "readline": "^1.3.0",
+    "scratch-api": "^1.1.12",
+    "scratch3-api": "^3.6.3"
+  }
+}
