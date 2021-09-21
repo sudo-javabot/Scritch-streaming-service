@@ -5,4 +5,6 @@ if you are marcelzietek2006 here are the instrucitons (if this is too much to as
 
 Instructions:
 
+install the scratch3-API with npm install scratch3-api
+
 I have some comments set up around line 65 of the main.js file, follow those and if you have any questions just ask me
