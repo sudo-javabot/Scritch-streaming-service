@@ -4,7 +4,7 @@ var session;
 var cloud;
 
 async function main() {
-	session = await Scratch.UserSession.create("bilman66", "bilman55");
+	session = await Scratch.UserSession.create("username", "password");
 	cloud = await session.cloudSession("572117964");
 }
 
