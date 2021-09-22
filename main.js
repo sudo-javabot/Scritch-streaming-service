@@ -1,8 +1,4 @@
 const Scratch = require("scratch3-api");
-const readline = require('readline').createInterface({
-  input: process.stdin,
-  output: process.stdout
-})
 var fs = require("fs");
 var session;
 var cloud;
